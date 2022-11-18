@@ -1,6 +1,6 @@
 #include <stdio.h>
 //hello jojo 
-//same 2 
+//same exchange is conflict
 int main(){
 	printf("jojo，hello world");
 	return 0;
