@@ -1,2 +1,2 @@
-# MyFirstProject
+# FirstCode
 这里是存储c代码的，大一大二的时候一些代码没有存，现在再次学习c，这里将成为我的c代码仓库
